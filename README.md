@@ -33,7 +33,8 @@ Clean and analyze sales order data using a structured ETL (Extract, Transform, L
 
 Here’s a bar chart showing total sales by month in the dataset:
 
-![Sales by Month](sales_by_month_chart.png)
+<img width="1440" alt="Screenshot 2025-04-17 at 7 51 36 AM" src="https://github.com/user-attachments/assets/ace03237-6289-4551-8618-8338accbff91" />
+
 
 ## 📂 Folder Structure
 
