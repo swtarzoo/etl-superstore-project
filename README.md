@@ -29,5 +29,11 @@ Clean and analyze sales order data using a structured ETL (Extract, Transform, L
 - Monthly and weekday sales patterns
 - Top-performing sub-categories
 
+## 📊 Sales by Month
+
+Here’s a bar chart showing total sales by month in the dataset:
+
+![Sales by Month](sales_by_month_chart.png)
+
 ## 📂 Folder Structure
 
